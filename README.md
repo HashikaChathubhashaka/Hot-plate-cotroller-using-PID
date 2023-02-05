@@ -15,16 +15,15 @@
   
  </ol>
  
- 
- <img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
- 
+
 
 <h4>Softwares And Platforms</h4>
 <ul>
 
-<li>Simulate circuit__<i>Multisim</i> </li> <a herf= "https://www.multisim.com/">   Site  </a>
-<li>PCBs__<i>Altium  </i> </li>
-<li>encloser__<i> SolidWorks </i>  </li>
-<li>Digital Display__<i> Arduino  </i> </li>
+<li>Simulate circuit --> <i>Multisim</i> </li>
+<li>PCBs --> <i>Altium  </i> </li>
+<li>encloser --> <i> SolidWorks </i>  </li>
+<li>Digital Display --> <i> Arduino  </i> </li>
 
 </ul>
+
