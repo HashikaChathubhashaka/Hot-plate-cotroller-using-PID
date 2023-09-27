@@ -24,6 +24,8 @@
 <li>PCBs --> <i>Altium  </i> </li>
 <li>encloser --> <i> SolidWorks </i>  </li>
 <li>Digital Display --> <i> Arduino  </i> </li>
+![image](https://github.com/HashikaChathubhashaka/Hot-plate-cotroller-using-PID/assets/124694898/acfde993-f79c-4dee-8bce-af375bb6de63)
+
 
 </ul>
 
